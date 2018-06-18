@@ -1,6 +1,7 @@
 import tensorflow as tf
 import os
 
+
 from tensorflow.examples.tutorials.mnist import input_data
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 # Define some constant
